@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace MTGABepinexPlugin
 {
-    [BepInPlugin("com.github.mesonimie.mtga-bepinex", "MTGA Plugin", "1.0.0.0")]
+    [BepInPlugin("com.github.mesonimie.mtga-bepinex", "MTGA Plugin", "1.0.1.0")]
     public class Plugin : BaseUnityPlugin
     {
         private void Awake()

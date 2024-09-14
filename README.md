@@ -6,7 +6,7 @@ The goal of the plugin is to track the cards in your inventory.
 
 # Compilation
 
-Copy the `Assembly-Csharp.dll` from MTGA to the libs repository, then `dotnet build`
+Copy the `Assembly-Csharp.dll` and `Core.dll` from MTGA to the libs repository, then `dotnet build`
 
 # Usage
 
